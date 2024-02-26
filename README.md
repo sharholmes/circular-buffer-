@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a C++ header file (`circbuf.hpp`) implementing a circular buffer, also known as a circular queue or ring buffer. A circular buffer is a data structure that uses a fixed-size buffer as if it were connected end-to-end, effectively looping around like a circle. This implementation provides functionalities for inserting and retrieving elements from the buffer, managing its size dynamically, and performing operations like flushing and shrinking.
+This is a C++ program to create a circular buffer, also known as a circular queue or ring buffer. A circular buffer is a data structure that uses a fixed-size buffer as if it were connected end-to-end, effectively looping around like a circle. This implementation provides functionalities for inserting and retrieving elements from the buffer, managing its size dynamically, and performing operations like flushing and shrinking.
 
 ## Author
 
